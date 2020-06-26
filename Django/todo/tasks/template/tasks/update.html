@@ -1,0 +1,10 @@
+<h1> ON update page</h1>
+
+<form action="comeback">
+    {% csrf_token %}
+
+    <input type="text" value="{{form.title}}">
+
+    <input type="submit" value='update'>
+
+</form>

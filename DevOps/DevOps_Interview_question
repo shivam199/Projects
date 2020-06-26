@@ -1,0 +1,28 @@
+1. which tool have you used for implement CI/CD ? 
+2. Any alternate tool do you know for CI/CD ?
+3. what is Continuous Integration?  
+4. what type of jobs have you configured in jenkins? 
+5. what are the types of jobs are available in jenkins?
+6. what is difference b/w freestyle and pipeline? 
+7. what is pipeline? 
+8. what is declarative pipeline? 
+9. what is difference between  declarative pipeline and script based pipeline?
+10. write the pipeline syntax?
+11. what is master/slave architecture? what is the use of master/slave?
+12. How many we can connect the slaves?
+13. How many ways we can provide security for your jenkins server?
+14. what is sonarqube ? have you configure ? How you configure ?
+15. what type of artifactory repository tool have you used? 
+16. what is the use of artifactory tools? 
+17. How you declare a variables in pipeline?
+18. what is DSL language? domain spcific language?
+19. what is upstream/downstream projects? what is the use of it? which scenario you configure?
+20. If a have 10 repositories i github how many jobs you can configure?
+21. Dou you have experience to install jenkins?
+22. How you configure jdk,maven,gradle...etc?
+23. In my environment i have different version for java implementation projects is there ? How you configure multiple jdk's?
+24. what are the plugins have you used in your project?
+25. How to take backup my jenkins? thin backup plugin
+26. what is jenkins Home directory?  
+27. How to deleted old builds automatically?
+28. How to configure multiple environment deployment?
